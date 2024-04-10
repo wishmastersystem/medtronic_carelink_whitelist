@@ -1,0 +1,5125 @@
+{
+    "3.4.0": {
+        "MAX_PHONE_SCREEN_CONFIG": 7,
+        "WHITELIST": {
+            "SM-G9650": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G955U1": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A510XZ": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SAMSUNG-SM-G930AZ": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-TL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9300": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R6": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R7": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A5100X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "ELE-L04": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930R4": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965N": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "ELE-L09": {
+                "description": "Huawei P30",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G965F": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9708": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G973U1": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9308": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950U1": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "ELE-AL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9700": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0"]
+            },
+            "SAMSUNG-SM-G935A": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965W": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965U": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G930P": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930L": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930W8": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9550": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970F": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930K": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930F": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV33": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G970W": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930X": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV36": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SCV35": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970U": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930V": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV38": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G930T": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930U": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV39": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G970N": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930S": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-L29": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G955N": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G935R4": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G955F": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9608": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G955W": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970U1": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G955U": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9600": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960N": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9730": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SAMSUNG-SM-G930A": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G960F": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-A5108": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SC-05L": {
+                "description": "Galaxy S10+ Olympic Game Edition",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G935W8": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A5100": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G960W": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960U": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9738": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G960U1": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G973N": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930VC": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520W": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520X": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G973F": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SC-04L": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SCV41": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SCV42": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9508": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A520S": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "H8314": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G975U1": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G973W": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-A520F": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G973U": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930VL": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9500": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A520K": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520L": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950N": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "LM-G820": {
+                "description": "LG G8 ThinQ\\xe2\\x84\\xa2",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9750": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9350": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950F": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SC-03L": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0"]
+            },
+            "SC-03K": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-03J": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G935F": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "H8324": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930T1": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950W": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950U": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9758": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G935U": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935V": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935S": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935T": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G975N": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SO-05K": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G935P": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965U1": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G935K": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G935L": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510Y": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SC-02K": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-02J": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G975F": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "MI MIX 2S": {
+                "description": "MI MIX 2S",
+                "supportedOS": ["9.0.0"]
+            },
+            "SC-02H": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935VC": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510S": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "LM-G820N": {
+                "description": "LG G8 ThinQ\\xe2\\x84\\xa2",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-A510F": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G975W": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G975U": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-A510K": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510L": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G935X": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510M": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            }
+        },
+        "GRAYLIST": {
+            "SONY": [9],
+            "XIAOMI": [9],
+            "LGE": [9],
+            "SAMSUNG": [7, 8, 9],
+            "HUAWEI": [9]
+        },
+        "BLACKLIST": {}
+    },
+    "3.4.1": {
+        "MAX_PHONE_SCREEN_CONFIG": 7,
+        "WHITELIST": {
+            "ELE-L14": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9650": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G955U1": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A510XZ": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G980F": {
+                "description": "Galaxy S20",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G988N": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0"]
+            },
+            "SAMSUNG-SM-G930AZ": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-TL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G988W": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G988U": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G9300": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R6": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R7": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A5100X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "ELE-L04": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930R4": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965N": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "ELE-L09": {
+                "description": "Huawei P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G965F": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9708": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973U1": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9308": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950U1": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "ELE-AL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9700": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SAMSUNG-SM-G935A": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965W": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965U": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G930P": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-L39": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930L": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930W8": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9550": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970F": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930K": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930F": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV33": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G970W": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930X": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV36": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SCV35": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970U": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930V": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV38": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G930T": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930U": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV39": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G970N": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930S": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-L29": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G955N": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SO-01M": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935R4": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G955F": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "J9210": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G9608": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G955W": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970U1": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G955U": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9600": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960N": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9730": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SAMSUNG-SM-G930A": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G770F": {
+                "description": "Galaxy S10 Lite",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G960F": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-A5108": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SC-05L": {
+                "description": "Galaxy S10+ Olympic Games Edition",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G935W8": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-N970W": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "MI 9": {
+                "description": "MI 9",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A5100": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G960W": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960U": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9738": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G960U1": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "ELE-L49": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973N": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930VC": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520W": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-N970U1": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G985F": {
+                "description": "Galaxy S20+",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A520X": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G973F": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973C": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SC-04L": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-N970U": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "J8270": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SCV41": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SCV42": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9508": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A520S": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "H8314": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G975U1": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973W": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-A520F": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G973U": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930VL": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9500": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A520K": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-N970F": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A520L": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950N": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SOV41": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-G820": {
+                "description": "LG G8 ThinQ�",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9750": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9350": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950F": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-N9700": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "SC-03L": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SC-03K": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-03J": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "J8210": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935F": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "H8324": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930T1": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950W": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950U": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9758": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G935U": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935V": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935S": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935T": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G975N": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SO-05K": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9880": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935P": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965U1": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G988U1": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935K": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G935L": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510Y": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SC-02K": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-02J": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G975F": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "MI MIX 2S": {
+                "description": "MI MIX 2S",
+                "supportedOS": ["9.0.0"]
+            },
+            "SC-02H": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "901SO": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935VC": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G988B": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A510S": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "LM-G820N": {
+                "description": "LG G8 ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-A510F": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G975W": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G975U": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-A510K": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510L": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G935X": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510M": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            }
+        },
+        "GRAYLIST": {
+            "SONY": [9, 10],
+            "XIAOMI": [9, 10],
+            "LGE": [9, 10],
+            "SAMSUNG": [7, 8, 9, 10],
+            "HUAWEI": [9, 10]
+        },
+        "BLACKLIST": {}
+    },
+    "3.4.2": {
+        "MAX_PHONE_SCREEN_CONFIG": 7,
+        "WHITELIST": {
+            "ELE-L14": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9650": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G955U1": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A510XZ": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G980F": {
+                "description": "Galaxy S20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-G988N": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SAMSUNG-SM-G930AZ": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-TL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G988W": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-G988U": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-G9300": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R6": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R7": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A5100X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "ELE-L04": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930R4": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965N": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "ELE-L09": {
+                "description": "Huawei P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G965F": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9708": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973U1": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9308": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950U1": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "ELE-AL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9700": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SAMSUNG-SM-G935A": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965W": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965U": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G930P": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-L39": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930L": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930W8": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9550": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970F": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930K": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930F": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV33": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G970W": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930X": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV36": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SCV35": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970U": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930V": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV38": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G930T": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930U": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV39": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G970N": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930S": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "ELE-L29": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G955N": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SO-01M": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935R4": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G955F": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "J9210": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G9608": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G955W": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G970U1": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G955U": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9600": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960N": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9730": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SAMSUNG-SM-G930A": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G770F": {
+                "description": "Galaxy S10 Lite",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G960F": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-A5108": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SC-05L": {
+                "description": "Galaxy S10+ Olympic Games Edition",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G935W8": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-N970W": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "MI 9": {
+                "description": "MI 9",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A5100": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G960W": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960U": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9738": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G960U1": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "ELE-L49": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973N": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930VC": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520W": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-N970U1": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G985F": {
+                "description": "Galaxy S20+",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A520X": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G973F": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973C": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SC-04L": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-N970U": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "J8270": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SCV41": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SCV42": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9508": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A520S": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "H8314": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G975U1": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G973W": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-A520F": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G973U": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G930VL": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9500": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-A520K": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-N970F": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A520L": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950N": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SOV41": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-G820": {
+                "description": "LG G8 ThinQ�",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9750": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G9350": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950F": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-N9700": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0"]
+            },
+            "SC-03L": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SC-03K": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-03J": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "J8210": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935F": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "H8324": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G930T1": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G950W": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950U": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9758": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G935U": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935V": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935S": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935T": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G975N": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SO-05K": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "SM-G9880": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-G935P": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G965U1": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G988U1": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-G935K": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G935L": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510Y": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SC-02K": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-02J": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G975F": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "MI MIX 2S": {
+                "description": "MI MIX 2S",
+                "supportedOS": ["9.0.0"]
+            },
+            "SC-02H": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "901SO": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-G935VC": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G988B": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A510S": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "LM-G820N": {
+                "description": "LG G8 ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-A510F": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G975W": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-G975U": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "SM-A510K": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510L": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-G935X": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A510M": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            }
+        },
+        "GRAYLIST": {
+            "SONY": [9, 10],
+            "XIAOMI": [9, 10],
+            "LGE": [9, 10],
+            "SAMSUNG": [7, 8, 9, 10, 11],
+            "HUAWEI": [9, 10]
+        },
+        "BLACKLIST": {}
+    },
+    "3.4.3": {
+        "MAX_PHONE_SCREEN_CONFIG": 7,
+        "WHITELIST": {
+            "SM-N970X": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970N": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970W": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970U1": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970U": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970F": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N9700": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N971N": {
+                "description": "Galaxy Note10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SC-01M": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975D": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SCV45": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975J": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N9750": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975C": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975U": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975U1": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975W": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975F": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976B": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976N": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N9760": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976Q": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976V": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976U": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N980F": {
+                "description": "Galaxy Note20",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N9810": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981N": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981U": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981U1": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981W": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981B": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N985F": {
+                "description": "Galaxy Note20 Ultra",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-53A": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG06": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N9860": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986N": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986U": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986U1": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986W": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986B": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SAMSUNG-SM-G930A": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SAMSUNG-SM-G930AZ": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9300": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9308": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930F": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930K": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930L": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930P": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R4": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R6": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930R7": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930S": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930T": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930T1": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930U": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930V": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930VC": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930VL": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930W8": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G930X": {
+                "description": "Galaxy S7",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SAMSUNG-SM-G935A": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SC-02H": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SCV33": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G9350": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935F": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935K": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935L": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935P": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935R4": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935S": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935T": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935U": {
+                "description": "Galaxy S7 edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935V": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935VC": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935W8": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-G935X": {
+                "description": "Galaxy S7 Edge",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SC-02J": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SCV36": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9500": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9508": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950F": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950N": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950U": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950U1": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G950W": {
+                "description": "Galaxy S8",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SC-03J": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SCV35": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G9550": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G955F": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G955N": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G955U": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G955U1": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SM-G955W": {
+                "description": "Galaxy S8+",
+                "supportedOS": ["7.0.0", "8.0.0", "9.0.0"]
+            },
+            "SC-02K": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SCV38": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9600": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9608": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960F": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960N": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960U": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960U1": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G960W": {
+                "description": "Galaxy S9",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-03K": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SCV39": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G9650": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965F": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965N": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965U": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965U1": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SM-G965W": {
+                "description": "Galaxy S9+",
+                "supportedOS": ["8.0.0", "9.0.0"]
+            },
+            "SC-03L": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SCV41": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973C": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973X": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9730": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9738": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973F": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973N": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973U": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973U1": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973W": {
+                "description": "Galaxy S10",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9770": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977B": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977N": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977P": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977T": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977U": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G770F": {
+                "description": "Galaxy S10 Lite",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G770U1": {
+                "description": "Galaxy S10 Lite",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SC-04L": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SCV42": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9750": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9758": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975F": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975N": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975U": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975U1": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975W": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975X": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SC-05L": {
+                "description": "Galaxy S10+ Olympic Games Edition",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9700": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9708": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970F": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970N": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970U": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970U1": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970W": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G980": {
+                "description": "Galaxy S20",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G980F": {
+                "description": "Galaxy S20",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-51A": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG01": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G9810": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981N": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981U": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981U1": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981V": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981W": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981B": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981F": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G780F": {
+                "description": "Galaxy S20 FE",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G7810": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781B": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781N": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781U": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781U1": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781V": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781W": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781NK": {
+                "description": "Galaxy S20 FE 2022",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781NK22": {
+                "description": "Galaxy S20 FE 2022",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G985": {
+                "description": "Galaxy S20+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G985F": {
+                "description": "Galaxy S20+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-52A": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG02": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G9860": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986F": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986N": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986U": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986U1": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986W": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986B": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG03": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988B": {
+                "description": "Galaxy S20 Ultra",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G9880": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988N": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988Q": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988U": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988U1": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988W": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-51B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SCG09": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9910": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991Q": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991U1": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991U": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991W": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991N": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9900": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990U": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990W": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990E": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SC-52B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9980": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998U": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998U1": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998W": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998B": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998N": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SCG10": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9960": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996U": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996U1": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996W": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996B": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996N": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901B": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901U": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901U1": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901W": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901N": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S9010": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901E": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906B": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906U": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906U1": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906W": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906N": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S9060": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906E": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908B": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908U": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908U1": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908W": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908N": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S9080": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908E": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S911B": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911U": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911U1": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911W": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911N": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S9110": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911E": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916B": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916U": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916U1": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916W": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916N": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S9160": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916E": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918B": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918U": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918U1": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918W": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918N": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S9180": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918E": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-A5100": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A5100X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A5108": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510F": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510K": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510L": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510M": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510S": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510X": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510XZ": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A510Y": {
+                "description": "Galaxy A5(2016)",
+                "supportedOS": ["7.0.0"]
+            },
+            "SM-A520F": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520K": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520L": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520S": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520W": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A520X": {
+                "description": "Galaxy A5(2017)",
+                "supportedOS": ["7.0.0", "8.0.0"]
+            },
+            "SM-A115A": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115AP": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115AZ": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115F": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115M": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115U": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115U1": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115W": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125F": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125M": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125N": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125U": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125U1": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A127F": {
+                "description": "Samsung Galaxy A12 Nacho",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A127M": {
+                "description": "Samsung Galaxy A12 Nacho",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A127U": {
+                "description": "Samsung Galaxy A12 Nacho",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A136U": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A136U1": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A136W": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A136DL": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SC-02M": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SCV46": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SCV46-j": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SCV46-u": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205F": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205FN": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205G": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205GN": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205W": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205YN": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205U": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A205U1": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-S205DL": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-S205S": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-S207F": {
+                "description": "Samsung Galaxy A20s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-S207M": {
+                "description": "Samsung Galaxy A20s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-S2070": {
+                "description": "Samsung Galaxy A20s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SC-42A": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SCV49": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A215U": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A215U1": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A215W": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-S215DL": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A217F": {
+                "description": "Samsung Galaxy A21s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A217M": {
+                "description": "Samsung Galaxy A21s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A217N": {
+                "description": "Samsung Galaxy A21s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A307F": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A307FN": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A307G": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A307GN": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A307GT": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A325F": {
+                "description": "Samsung Galaxy A32",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A325M": {
+                "description": "Samsung Galaxy A32",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A325N": {
+                "description": "Samsung Galaxy A32",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326B": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326BR": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326U": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326U1": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326W": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SC-41A": {
+                "description": "Samsung Galaxy A41",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A415F": {
+                "description": "Samsung Galaxy A41",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A505F": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505FM": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505FN": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505G": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505GN": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505GT": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505N": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505U": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505U1": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505W": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505X": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A505YN": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-S506DL": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A507F": {
+                "description": "Samsung Galaxy A50s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A507FN": {
+                "description": "Samsung Galaxy A50s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-S5070": {
+                "description": "Samsung Galaxy A50s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SCG07": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515F": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515U": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515U1": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515W": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515X": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S515DL": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SC-54A": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A5160": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516B": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516N": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516U": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516U1": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516V": {
+                "description": "Samsung Galaxy A51 UW",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A525F": {
+                "description": "Samsung Galaxy A52",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A525M": {
+                "description": "Samsung Galaxy A52",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526B": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A5260": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526W": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526U": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526U1": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A528B": {
+                "description": "Samsung Galaxy A52s 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A705F": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A705FN": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A705GM": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A705MN": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A7050": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A705W": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A705YN": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A705X": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A705U": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A707F": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A707FN": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A707GM": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A707MN": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A7070": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A707W": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A715F": {
+                "description": "Samsung Galaxy A71",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A715W": {
+                "description": "Samsung Galaxy A71",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A715X": {
+                "description": "Samsung Galaxy A71",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A7156": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716F": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A7160": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716B": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716U": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716U1": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716V": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A725F": {
+                "description": "Samsung Galaxy A72",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A725M": {
+                "description": "Samsung Galaxy A72",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A726B": {
+                "description": "Samsung Galaxy A72 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A908B": {
+                "description": "Samsung Galaxy A90 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A908N": {
+                "description": "Samsung Galaxy A90 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "SM-A9080": {
+                "description": "Samsung Galaxy A90 5G",
+                "supportedOS": ["9.0.0", "10.0.0", "11.0.0"]
+            },
+            "LM-G810": {
+                "description": "LG G8S ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LMG810": {
+                "description": "LG G8S ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LMG810EAW": {
+                "description": "LG G8S ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LM-G820N": {
+                "description": "LG G8 ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LM-G820": {
+                "description": "LG G8 ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LM-V500": {
+                "description": "LG V50 ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LM-V500N": {
+                "description": "LG V50 ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LM-V450": {
+                "description": "LG V50 ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "LM-V510N": {
+                "description": "LG V50S ThinQ",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "PIXEL 3": {
+                "description": "PIXEL 3",
+                "supportedOS": ["11.0.0", "10.0.0", "12.0.0"]
+            },
+            "PIXEL 3 XL": {
+                "description": "PIXEL 3 XL",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "PIXEL 3A": {
+                "description": "PIXEL 3A",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "PIXEL 3A XL": {
+                "description": "PIXEL 3A XL",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "PIXEL 4": {
+                "description": "PIXEL 4",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "PIXEL 4 XL": {
+                "description": "PIXEL 4 XL",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "PIXEL 4A": {
+                "description": "PIXEL 4A",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 4A (5G)": {
+                "description": "PIXEL 4A (5G)",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 5": {
+                "description": "PIXEL 5",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 5A": {
+                "description": "PIXEL 5A",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 6": {
+                "description": "PIXEL 6",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 6A": {
+                "description": "PIXEL 6A",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 6 PRO": {
+                "description": "PIXEL 6 Pro",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 7": {
+                "description": "PIXEL 7",
+                "supportedOS": ["14.0.0"]
+            },
+            "PIXEL 7 PRO": {
+                "description": "PIXEL 7 PRO",
+                "supportedOS": ["14.0.0"]
+            },
+            "SO-01M": {
+                "description": "Xperia 5",
+                "supportedOS": ["11.0.0", "10.0.0"]
+            },
+            "SO-05K": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "H8314": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "H8324": {
+                "description": "Xperia XZ2 Compact",
+                "supportedOS": ["9.0.0"]
+            },
+            "901SO": {
+                "description": "Xperia 5",
+                "supportedOS": ["11.0.0", "10.0.0"]
+            },
+            "J8210": {
+                "description": "Xperia 5",
+                "supportedOS": ["11.0.0", "10.0.0"]
+            },
+            "J8270": {
+                "description": "Xperia 5",
+                "supportedOS": ["11.0.0", "10.0.0"]
+            },
+            "J9210": {
+                "description": "Xperia 5",
+                "supportedOS": ["11.0.0", "10.0.0"]
+            },
+            "SOV41": {
+                "description": "Xperia 5",
+                "supportedOS": ["11.0.0", "10.0.0"]
+            },
+            "MI MIX 2S": {
+                "description": "Xiaomi MI MIX 2S",
+                "supportedOS": ["9.0.0"]
+            },
+            "MI 9": {
+                "description": "Xiaomi MI 9",
+                "supportedOS": ["10.0.0"]
+            },
+            "M2101K9AG": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2101K9C": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2101K9G": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "2109119DG": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "2109119DI": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2012K11G": {
+                "description": "Xiaomi Mi 11i",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2011K2C": {
+                "description": "Xiaomi Mi 11",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2011K2G": {
+                "description": "Xiaomi Mi 11",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2012K11AI": {
+                "description": "Xiaomi Mi 11x",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2012K11I": {
+                "description": "Xiaomi Mi 11x Pro",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2102K1G": {
+                "description": "Xiaomi Mi 11 Ultra",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2102K1C": {
+                "description": "Xiaomi Mi 11 Ultra",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2102K1AC": {
+                "description": "Xiaomi Mi 11 Pro",
+                "supportedOS": ["11.0.0"]
+            },
+            "2112123AC": {
+                "description": "Xiaomi 12x",
+                "supportedOS": ["11.0.0"]
+            },
+            "2112123AG": {
+                "description": "Xiaomi 12x",
+                "supportedOS": ["11.0.0"]
+            },
+            "ELE-L04": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "ELE-L09": {
+                "description": "Huawei P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "ELE-L14": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "ELE-L29": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "ELE-L39": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "ELE-L49": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "ELE-AL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            },
+            "ELE-TL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["9.0.0", "10.0.0"]
+            }
+        },
+        "GRAYLIST": {
+            "SONY": [9, 10, 11],
+            "XIAOMI": [9, 10, 11],
+            "LGE": [9, 10],
+            "SAMSUNG": [7, 8, 9, 10, 11, 12, 13, 14],
+            "HUAWEI": [9, 10],
+            "GOOGLE": [10, 11, 12, 13, 14]
+        },
+        "BLACKLIST": {}
+    },
+    "3.5.0": {
+        "MAX_PHONE_SCREEN_CONFIG": 7,
+        "WHITELIST": {
+            "SM-N970X": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970N": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970W": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970U1": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970U": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N970F": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N9700": {
+                "description": "Galaxy Note10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N971N": {
+                "description": "Galaxy Note10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SC-01M": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975D": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SCV45": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975J": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N9750": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975C": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975U": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975U1": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975W": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N975F": {
+                "description": "Galaxy Note10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976B": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976N": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N9760": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976Q": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976V": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N976U": {
+                "description": "Galaxy Note10+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-N980F": {
+                "description": "Galaxy Note20",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N9810": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981N": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981U": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981U1": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981W": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N981B": {
+                "description": "Galaxy Note20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N985F": {
+                "description": "Galaxy Note20 Ultra",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-53A": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG06": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N9860": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986N": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986U": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986U1": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986W": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-N986B": {
+                "description": "Galaxy Note20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+
+            "SC-03L": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SCV41": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973C": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973X": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9730": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9738": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973F": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973N": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973U": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973U1": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G973W": {
+                "description": "Galaxy S10",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9770": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977B": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977N": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977P": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977T": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G977U": {
+                "description": "Galaxy S10 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G770F": {
+                "description": "Galaxy S10 Lite",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G770U1": {
+                "description": "Galaxy S10 Lite",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SC-04L": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SCV42": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9750": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9758": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975F": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975N": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975U": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975U1": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975W": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G975X": {
+                "description": "Galaxy S10+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SC-05L": {
+                "description": "Galaxy S10+ Olympic Games Edition",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9700": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G9708": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970F": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970N": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970U": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970U1": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G970W": {
+                "description": "Galaxy S10e",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "SM-G980": {
+                "description": "Galaxy S20",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G980F": {
+                "description": "Galaxy S20",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-51A": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG01": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G9810": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981N": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981U": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981U1": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981V": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981W": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981B": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G981F": {
+                "description": "Galaxy S20 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G780F": {
+                "description": "Galaxy S20 FE",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G7810": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781B": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781N": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781U": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781U1": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781V": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781W": {
+                "description": "Galaxy S20 FE 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781NK": {
+                "description": "Galaxy S20 FE 2022",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G781NK22": {
+                "description": "Galaxy S20 FE 2022",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G985": {
+                "description": "Galaxy S20+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G985F": {
+                "description": "Galaxy S20+",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-52A": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG02": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G9860": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986F": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986N": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986U": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986U1": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986W": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G986B": {
+                "description": "Galaxy S20+ 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SCG03": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988B": {
+                "description": "Galaxy S20 Ultra",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G9880": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988N": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988Q": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988U": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988U1": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SM-G988W": {
+                "description": "Galaxy S20 Ultra 5G",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "SC-51B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SCG09": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9910": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991Q": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991U1": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991U": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991W": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G991N": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9900": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990U": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990W": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G990E": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SC-52B": {
+                "description": "Galaxy S21",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9980": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998U": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998U1": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998W": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998B": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G998N": {
+                "description": "Galaxy S21 Ultra 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SCG10": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G9960": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996U": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996U1": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996W": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996B": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-G996N": {
+                "description": "Galaxy S21+ 5G",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901B": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901U": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901U1": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901W": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901N": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S9010": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S901E": {
+                "description": "Galaxy S22 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906B": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906U": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906U1": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906W": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906N": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S9060": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S906E": {
+                "description": "Galaxy S22+ 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908B": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908U": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908U1": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908W": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908N": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S9080": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S908E": {
+                "description": "Galaxy S22 Ultra 5G",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "SM-S911B": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911U": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911U1": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911W": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911N": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S9110": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S911E": {
+                "description": "Galaxy S23",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916B": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916U": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916U1": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916W": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916N": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S9160": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S916E": {
+                "description": "Galaxy S23+",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918B": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918U": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918U1": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918W": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918N": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S9180": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+            "SM-S918E": {
+                "description": "Galaxy S23 Ultra",
+                "supportedOS": ["14.0.0"]
+            },
+
+            "SM-A115A": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115AP": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115AZ": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115F": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115M": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115U": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115U1": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A115W": {
+                "description": "Samsung Galaxy A11",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125F": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125M": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125N": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125U": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A125U1": {
+                "description": "Samsung Galaxy A12",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A127F": {
+                "description": "Samsung Galaxy A12 Nacho",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A127M": {
+                "description": "Samsung Galaxy A12 Nacho",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A127U": {
+                "description": "Samsung Galaxy A12 Nacho",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A136U": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A136U1": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A136W": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A136DL": {
+                "description": "Samsung Galaxy A13 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SC-02M": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SCV46": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SCV46-j": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SCV46-u": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205F": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205FN": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205G": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205GN": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205W": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205YN": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205U": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A205U1": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S205DL": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S205S": {
+                "description": "Samsung Galaxy A20",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S207F": {
+                "description": "Samsung Galaxy A20s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S207M": {
+                "description": "Samsung Galaxy A20s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S2070": {
+                "description": "Samsung Galaxy A20s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SC-42A": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SCV49": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A215U": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A215U1": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A215W": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-S215DL": {
+                "description": "Samsung Galaxy A21",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A217F": {
+                "description": "Samsung Galaxy A21s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A217M": {
+                "description": "Samsung Galaxy A21s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A217N": {
+                "description": "Samsung Galaxy A21s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A307F": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A307FN": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A307G": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A307GN": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A307GT": {
+                "description": "Samsung Galaxy A30s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A325F": {
+                "description": "Samsung Galaxy A32",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A325M": {
+                "description": "Samsung Galaxy A32",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A325N": {
+                "description": "Samsung Galaxy A32",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326B": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326BR": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326U": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326U1": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A326W": {
+                "description": "Samsung Galaxy A32 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SC-41A": {
+                "description": "Samsung Galaxy A41",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A415F": {
+                "description": "Samsung Galaxy A41",
+                "supportedOS": ["10.0.0"]
+            },
+            "SM-A505F": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505FM": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505FN": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505G": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505GN": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505GT": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505N": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505U": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505U1": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505W": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505X": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A505YN": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S506DL": {
+                "description": "Samsung Galaxy A50",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A507F": {
+                "description": "Samsung Galaxy A50s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A507FN": {
+                "description": "Samsung Galaxy A50s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S5070": {
+                "description": "Samsung Galaxy A50s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SCG07": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515F": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515U": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515U1": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515W": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A515X": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-S515DL": {
+                "description": "Samsung Galaxy A51",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SC-54A": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A5160": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516B": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516N": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516U": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516U1": {
+                "description": "Samsung Galaxy A51 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A516V": {
+                "description": "Samsung Galaxy A51 UW",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A525F": {
+                "description": "Samsung Galaxy A52",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A525M": {
+                "description": "Samsung Galaxy A52",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526B": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A5260": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526W": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526U": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A526U1": {
+                "description": "Samsung Galaxy A52 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A528B": {
+                "description": "Samsung Galaxy A52s 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A705F": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A705FN": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A705GM": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A705MN": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A7050": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A705W": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A705YN": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A705X": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A705U": {
+                "description": "Samsung Galaxy A70",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A707F": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A707FN": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A707GM": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A707MN": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A7070": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A707W": {
+                "description": "Samsung Galaxy A70s",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A715F": {
+                "description": "Samsung Galaxy A71",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A715W": {
+                "description": "Samsung Galaxy A71",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A715X": {
+                "description": "Samsung Galaxy A71",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A7156": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716F": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A7160": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716B": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716U": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716U1": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A716V": {
+                "description": "Samsung Galaxy A71 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A725F": {
+                "description": "Samsung Galaxy A72",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A725M": {
+                "description": "Samsung Galaxy A72",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A726B": {
+                "description": "Samsung Galaxy A72 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "SM-A908B": {
+                "description": "Samsung Galaxy A90 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A908N": {
+                "description": "Samsung Galaxy A90 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SM-A9080": {
+                "description": "Samsung Galaxy A90 5G",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "LM-G810": {
+                "description": "LG G8S ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LMG810": {
+                "description": "LG G8S ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LMG810EAW": {
+                "description": "LG G8S ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-G820N": {
+                "description": "LG G8 ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-G820": {
+                "description": "LG G8 ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-V500": {
+                "description": "LG V50 ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-V500N": {
+                "description": "LG V50 ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-V450": {
+                "description": "LG V50 ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "LM-V510N": {
+                "description": "LG V50S ThinQ",
+                "supportedOS": ["10.0.0"]
+            },
+            "PIXEL 3": {
+                "description": "PIXEL 3",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "PIXEL 3 XL": {
+                "description": "PIXEL 3 XL",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "PIXEL 3A": {
+                "description": "PIXEL 3A",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "PIXEL 3A XL": {
+                "description": "PIXEL 3A XL",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0"]
+            },
+            "PIXEL 4": {
+                "description": "PIXEL 4",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "PIXEL 4 XL": {
+                "description": "PIXEL 4 XL",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0"]
+            },
+            "PIXEL 4A": {
+                "description": "PIXEL 4A",
+                "supportedOS": ["10.0.0", "11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 4A (5G)": {
+                "description": "PIXEL 4A (5G)",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 5": {
+                "description": "PIXEL 5",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 5A": {
+                "description": "PIXEL 5A",
+                "supportedOS": ["11.0.0", "12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 6": {
+                "description": "PIXEL 6",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 6A": {
+                "description": "PIXEL 6A",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 6 PRO": {
+                "description": "PIXEL 6 Pro",
+                "supportedOS": ["12.0.0", "13.0.0", "14.0.0"]
+            },
+            "PIXEL 7": {
+                "description": "PIXEL 7",
+                "supportedOS": ["14.0.0"]
+            },
+            "PIXEL 7 PRO": {
+                "description": "PIXEL 7 PRO",
+                "supportedOS": ["14.0.0"]
+            },
+            "SO-01M": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+
+            "901SO": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "J8210": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "J8270": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "J9210": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+            "SOV41": {
+                "description": "Xperia 5",
+                "supportedOS": ["10.0.0", "11.0.0"]
+            },
+
+            "MI 9": {
+                "description": "Xiaomi MI 9",
+                "supportedOS": ["10.0.0"]
+            },
+            "M2101K9AG": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2101K9C": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2101K9G": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "2109119DG": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "2109119DI": {
+                "description": "Xiaomi Mi 11 Lite 5G",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2012K11G": {
+                "description": "Xiaomi Mi 11i",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2011K2C": {
+                "description": "Xiaomi Mi 11",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2011K2G": {
+                "description": "Xiaomi Mi 11",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2012K11AI": {
+                "description": "Xiaomi Mi 11x",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2012K11I": {
+                "description": "Xiaomi Mi 11x Pro",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2102K1G": {
+                "description": "Xiaomi Mi 11 Ultra",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2102K1C": {
+                "description": "Xiaomi Mi 11 Ultra",
+                "supportedOS": ["11.0.0"]
+            },
+            "M2102K1AC": {
+                "description": "Xiaomi Mi 11 Pro",
+                "supportedOS": ["11.0.0"]
+            },
+            "2112123AC": {
+                "description": "Xiaomi 12x",
+                "supportedOS": ["11.0.0"]
+            },
+            "2112123AG": {
+                "description": "Xiaomi 12x",
+                "supportedOS": ["11.0.0"]
+            },
+            "ELE-L04": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["10.0.0"]
+            },
+            "ELE-L09": {
+                "description": "Huawei P30",
+                "supportedOS": ["10.0.0"]
+            },
+            "ELE-L14": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["10.0.0"]
+            },
+            "ELE-L29": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["10.0.0"]
+            },
+            "ELE-L39": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["10.0.0"]
+            },
+            "ELE-L49": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["10.0.0"]
+            },
+            "ELE-AL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["10.0.0"]
+            },
+            "ELE-TL00": {
+                "description": "HUAWEI P30",
+                "supportedOS": ["10.0.0"]
+            }
+        },
+        "GRAYLIST": {
+            "SONY": [10, 11],
+            "XIAOMI": [10, 11],
+            "LGE": [10],
+            "SAMSUNG": [10, 11, 12, 13, 14],
+            "HUAWEI": [10],
+            "GOOGLE": [10, 11, 12, 13, 14]
+        },
+        "BLACKLIST": {}
+    }
+}
